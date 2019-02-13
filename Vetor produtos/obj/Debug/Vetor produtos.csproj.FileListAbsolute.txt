@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Vetor produtos\Vetor produtos\bin\Debug\Vetor produtos.exe.config
+C:\Users\Otavio\Desktop\curso 2\Vetor produtos\Vetor produtos\bin\Debug\Vetor produtos.exe
+C:\Users\Otavio\Desktop\curso 2\Vetor produtos\Vetor produtos\bin\Debug\Vetor produtos.pdb
+C:\Users\Otavio\Desktop\curso 2\Vetor produtos\Vetor produtos\obj\Debug\Vetor produtos.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\curso 2\Vetor produtos\Vetor produtos\obj\Debug\Vetor produtos.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Vetor produtos\Vetor produtos\obj\Debug\Vetor produtos.exe
+C:\Users\Otavio\Desktop\curso 2\Vetor produtos\Vetor produtos\obj\Debug\Vetor produtos.pdb
